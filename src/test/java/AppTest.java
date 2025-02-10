@@ -11,7 +11,7 @@ public class AppTest {
 
         String result = myApp.getStatus();
 
-        assertEquals("OK", result);
+        assertEquals("OK11111", result);
     }
 
 }
